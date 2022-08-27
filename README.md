@@ -1,12 +1,11 @@
-# AHMED-salah00.github.io
 <DOCTYPE html>
 <html lang="en" dir="ltr"><head>
     <meta charset="utf-8">
     <meta name="description" content="This is Ahmed Salah's  personal webpage">
-    <title>Ahmed sallam</title>
+    <title>Ahmed Salah</title>
   </head>
   <body>
-    <h1>Ahmed Sallam</h1>
+    <h1>Ahmed Salah</h1>
     <p><em>Control and Computer engineer and a Data Scientist</em></p>
     <hr size="3">
     <h2>Education</h2>

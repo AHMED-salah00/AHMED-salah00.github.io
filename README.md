@@ -4,6 +4,7 @@
     <meta name="description" content="This is Ahmed Salah's  personal webpage">
     <title>Ahmed Salah</title>
   </head>
+  <img src="pp.jpg" alt="My test image">
   <body>
     <h1>Ahmed Salah</h1>
     <p><em>Control and Computer engineer and a Data Scientist</em></p>

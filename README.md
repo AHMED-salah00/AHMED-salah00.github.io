@@ -39,7 +39,7 @@
         <td><table cellspacing="10">
           <tbody><tr>
             <td>Data science</td>
-            <td>⭐⭐⭐</td>
+            <td>⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Problem solving</td>
